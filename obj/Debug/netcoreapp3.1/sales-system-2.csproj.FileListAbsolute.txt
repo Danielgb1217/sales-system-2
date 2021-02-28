@@ -1,0 +1,25 @@
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system - copia\sales-system\bin\Debug\netcoreapp3.1\sales-system-2.exe
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system - copia\sales-system\bin\Debug\netcoreapp3.1\sales-system-2.deps.json
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system - copia\sales-system\bin\Debug\netcoreapp3.1\sales-system-2.runtimeconfig.json
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system - copia\sales-system\bin\Debug\netcoreapp3.1\sales-system-2.runtimeconfig.dev.json
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system - copia\sales-system\bin\Debug\netcoreapp3.1\sales-system-2.dll
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system - copia\sales-system\bin\Debug\netcoreapp3.1\sales-system-2.pdb
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system - copia\sales-system\obj\Debug\netcoreapp3.1\sales-system-2.AssemblyInfoInputs.cache
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system - copia\sales-system\obj\Debug\netcoreapp3.1\sales-system-2.AssemblyInfo.cs
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system - copia\sales-system\obj\Debug\netcoreapp3.1\sales-system-2.csproj.CoreCompileInputs.cache
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system - copia\sales-system\obj\Debug\netcoreapp3.1\sales-system-2.dll
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system - copia\sales-system\obj\Debug\netcoreapp3.1\sales-system-2.pdb
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system - copia\sales-system\obj\Debug\netcoreapp3.1\sales-system-2.genruntimeconfig.cache
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system-2\sales-system-2\obj\Debug\netcoreapp3.1\sales-system-2.csprojAssemblyReference.cache
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system-2\sales-system-2\obj\Debug\netcoreapp3.1\sales-system-2.AssemblyInfoInputs.cache
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system-2\sales-system-2\obj\Debug\netcoreapp3.1\sales-system-2.AssemblyInfo.cs
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system-2\sales-system-2\obj\Debug\netcoreapp3.1\sales-system-2.csproj.CoreCompileInputs.cache
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system-2\sales-system-2\obj\Debug\netcoreapp3.1\sales-system-2.dll
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system-2\sales-system-2\obj\Debug\netcoreapp3.1\sales-system-2.pdb
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system-2\sales-system-2\bin\Debug\netcoreapp3.1\sales-system-2.exe
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system-2\sales-system-2\bin\Debug\netcoreapp3.1\sales-system-2.deps.json
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system-2\sales-system-2\bin\Debug\netcoreapp3.1\sales-system-2.runtimeconfig.json
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system-2\sales-system-2\bin\Debug\netcoreapp3.1\sales-system-2.runtimeconfig.dev.json
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system-2\sales-system-2\bin\Debug\netcoreapp3.1\sales-system-2.dll
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system-2\sales-system-2\bin\Debug\netcoreapp3.1\sales-system-2.pdb
+D:\Datos\Ingenieria de Sistemas y Telecomunicaciones\Semestre 4\ProgramacionIII\sales-system-2\sales-system-2\obj\Debug\netcoreapp3.1\sales-system-2.genruntimeconfig.cache
